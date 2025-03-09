@@ -2,6 +2,10 @@
 
 A passionate Full Stack developer from India.
 
+🔭 I’m currently working on ReactJS and ReactNative Projects
+👯 I’m looking to collaborate on any Web Development related projects
+📫 How to reach me: jenjosejeeson@gmail.com 
+⚡ Fun fact: You're almost half an inch taller in the morning than evening
 <!--
 **jenjose72/jenjose72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
