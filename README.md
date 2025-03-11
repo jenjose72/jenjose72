@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Jen Jose Jeeson
+![Hi there, I'm Jen Jose Jeeson](animated-intro.svg)
 
 
 A passionate Full Stack developer from India.
