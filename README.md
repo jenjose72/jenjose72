@@ -11,11 +11,8 @@ A passionate Full Stack developer from India.
 Here are some of the links to my projects: <br>
 <br>
 🌋RescueBytez: https://rbbackend-hlah.onrender.com/ <br>
-📃ToDoList: https://jens-todolist.netlify.app/<br>
 ⚽BlueMoonStats: https://bluemoonstats.onrender.com <br>
 💬BMChats: https://bmchats.onrender.com/ <br>
-🎲ProvablyFairGame: https://fairgamepf.netlify.app/ <br>
-
 <!--
 **jenjose72/jenjose72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
